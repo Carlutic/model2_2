@@ -1,0 +1,19 @@
+Hello! Stratovarius here with a model edit! Please read the information below for changes and credits.
+
+
+Tda Miku H v3 Notes:
+
+Added a morph to remove the microphone
+Named the lower body morphs for easier understanding of the morphs
+Added a bone to the end of each arm sleeve to be key framed with the motion to prevet hand clipping
+Fixed a few issues with the legs and the footwear clpping through each other
+Fixed an issue where one arm would clip through near the elbow at extreme angles
+Fixed a weighting issue where old deleted clothing parts would spike through the body
+Deleted old bones from previously removed clothing and removed their corresponding joint data
+Deleted "wing" bones and joints to solve strange hair issues
+
+If there are any issues, please contact me on Trollvids or Neko Sentai. Feel free to use in your works and enjoy!
+
+Credits/Thanks:
+Mamamankai for the origin model with sliders (http://www1.axfc.net/u/3355650)
+Bobbeebs for adding the Tda Miku body to the Mamamankai body

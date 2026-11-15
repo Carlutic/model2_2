@@ -1,0 +1,31 @@
+Tda Nude IA: PervyDiva's edit.
+Ver0.01: Added ring.
+Ver0.02: Fixed ring's rigging, added slider to remove ring.
+Ver0.03: Tried (and failed) to add socks.
+Ver0.04: Tried (and failed) to add socks.
+Ver0.05: Added socks, added slider to remove socks.
+Ver0.06: Added boots, added slider to remove boots.
+Ver0.07: Refined boots, added choker, added slider to remove choker.
+Ver0.08: Refined boots, added thigh band, added slider to remove thigh band, accidentally broke the physics.
+Ver0.09: Repaired physics, removed thigh band because it was being troublesome.
+Ver0.10: Added panties, added slider to remove panties, added slider shift panties, yet again fucked up physics.
+Ver0.11: Repaired physics, at the cost of the panty sliders.
+Ver0.12: Added skirt, fucked up physics in a way that made me decide, "Fuck it, I'll deal with the physics once everything else is done."
+Ver0.13: Put thighband back, this time correctly. Thank you J&J for helping me with that.
+Ver0.14: Added shirt, sliders to remove skirt/thighband/shirt/panties, slider to shift panties, translated a few random materials and sliders into English for convenience.
+Ver0.15: Added sweater, slider to remove sweater, slider to lift sweater, refined skirt.
+Ver0.16: Added sliders to open shirt, pull down panties.
+Ver0.17: Tweaked a bit.
+Ver0.18: Repaired physics.
+Ver0.19: Changed some textures, added hair clips, sliders to remove hair clips.
+Ver0.20: Tweaked a bit, changed some textures.
+Ver0.21: Completely started over on skirt physics (I made my own custom skirt physics in Ver0.18, but those weren't to my liking, so I used the skirt plugin for Ver0.21)
+Ver1.00: Translated it so that it would work in Japanese for Japanese users.
+ArchMage666 Update: Tweaked a bit, removed unused bones and morphs, fixed blush, added working vagina.
+Ver1.02: Tweaked a bit.
+Ver1.03: Made the rigging for the "Panties Down" morph more realistic.
+Ver1.04: Fixed issue with shirt's rigging, fixed issue with downed panties shadow.
+Ver1.05: Tried (and failed) to refine skirt physics.
+Ver1.06: Deleted skirt, replaced it with Miyakkk version, deleted skirt physics, replaced them with Skirt Plugin-created physics, tweaked a bit, added slider to remove skirt.
+
+Note: The version used in "New Thang" was Ver0.11, and the version used in "Burn It Up" was Ver0.18. Also, "Paradise" was technically made with Ver0.20, but that's irrelevant because Paradise was skirtless and the skirt physics were the only difference between 0.20 and 1.00.
