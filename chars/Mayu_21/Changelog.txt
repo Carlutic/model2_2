@@ -1,0 +1,28 @@
+Tda Nude Base 1: Original base model from PervyDiva.
+IAwara Base A Ver0.01: Added working pussy.
+IAwara Base A Ver0.02: Refined pussy.
+IAwara Base A Ver1.00: Refined textures.
+Ver0.01: Added Mayu's head, hair, anklet, and bracelet from the PervyDiva Mayu model.
+Ver0.02: Removed hair, added hair from Piron's Mayu.
+Ver0.03: Changed eye texture to use the eye texture from Saboten's Mayu, fixed a bug with the Heart Eyes morph, added Z Form (Zayu) and Yandere Mode.
+Ver0.04: Modified Yandere morph, added gloves, added slider to remove gloves.
+Ver0.05: Added headgear, added slider to remove headgear.
+Ver0.06: Added socks, added slider to remove socks.
+Ver0.07: Added shoes, added slider to remove shoes.
+Ver0.08: Added titty stickers, added slider to remove titty stickers.
+Ver0.09: Refined physics.
+Ver0.10: Added panties, added slider to remove panties, added slider to shift panties.
+Ver0.11: Added skirt, added slider to remove skirt.
+Ver0.12: Added shirt, added slider to remove shirt, added slider to lift shirt.
+Ver0.13: Added slider to add sling bikini, added sling bikini sliders.
+Ver0.14: Added slider to shorten hair, added slider to shorten skirt (cuz' they're currently so long that you can't see her ass)
+Ver0.15: Added slider to open shirt.
+Ver0.16: Added pubic hair.
+Ver0.16.5: Ran it through Blender so that the pubic hair wouldn't slow down PMXE too much.
+Ver0.17: Tweaked a bit, partially translated it.
+Ver0.18: Added slider to pull panties down, added slider to hang panties on one leg.
+Ver0.19: Tweaked a bit.
+Ver1.00: Translated it so that it would work properly for Japanese and English users.
+Ver1.01: Tweaked a bit.
+
+Note: The version used in "Oh No" was Ver0.07. The version used in "Pjanoo" was Ver0.11. The version used in "Lamb" was Ver1.01.

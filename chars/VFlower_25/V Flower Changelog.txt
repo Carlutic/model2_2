@@ -1,0 +1,39 @@
+Tda Nude Base 1: Original base model from PervyDiva.
+IAwara Base A Ver0.01: Added working pussy.
+IAwara Base A Ver0.02: Refined pussy.
+IAwara Base A Ver1.00: Refined textures.
+Ver0.01: Added face.
+Ver0.02: Tried (and failed) to add hair.
+Ver0.03: Refined rigging.
+Ver0.04: Changed some textures.
+Ver0.05: Added hair.
+Ver0.06: Refined hair, added socks, added slider to remove socks, added sleeve, added slider to remove sleeve, added bandages, added slider to remove bandages, painted nails, added slider to unpaint nails.
+Ver0.07: Added boots, added slider to remove boots.
+Ver0.08: Added stole, added slider to remove stole.
+Ver0.09: Added panties, added slider to remove panties.
+Ver0.10: Refined sleeve, refined hair.
+Ver0.11: Changed face from Miku-style face to Gumi-style face.
+Ver0.12: Added skirt, added slider to remove skirt.
+Ver0.13: Added corset, added slider to remove corset.
+Ver0.14: Added vest, added slider to remove vest.
+Ver0.15: Added slider to pull down panties, added slider to shift panties, added slider to open corset.
+Ver0.16: Added pubic hair.
+Ver0.16.5: Ran it through Blender so that the pubic hair wouldn't slow PMXE down.
+Ver1.00: Translated it so that it would work properly in Japanese and English.
+Ver1.01: Tweaked a bit.
+Ver1.02: Added slider to put on sling bikini.
+Ver1.03: Added slider to add titty stickers.
+Ver1.04: Added slider to turn her into Z Flower.
+Ver1.05: Tweaked a bit.
+
+BONUS: V FLOWER CLOTHES
+Ver0.01: Removed V Flower, as well as all physics and joints, leaving behind the clothes and bones.
+Ver0.02: Modified slider to open vest fully.
+Ver0.03: Added slider to lift corset.
+Ver0.04: Added slider to pull down sling bikini around sides.
+Ver0.05: Added slider to squish panties.
+Ver0.06: Added slider to flatten clothes when they're on the ground.
+Ver0.07: Modified sliders to remove ONE shoe or sock.
+Ver1.00: Translated it so that it would work properly for Japanese and English users.
+
+Note: The version used in "Follow The Leader" was Ver0.05. The version used in "Womanizer" was Ver0.10. The version used in "All The Way Up" was Ver1.00. The version used in "Kiss Me" was Ver1.05.

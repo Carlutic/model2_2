@@ -1,0 +1,46 @@
+Tda Nude Base 1: Original base model from PervyDiva.
+IAwara Base A Ver0.01: Added working pussy.
+IAwara Base A Ver0.02: Refined pussy.
+IAwara Base A Ver1.00: Refined textures.
+Ver0.01: Added face.
+Ver0.02: Tried (and failed) to add hair.
+Ver0.03: Refined rigging.
+Ver0.04: Changed some textures.
+Ver0.05: Added hair.
+Ver0.06: Refined hair, added bandages, added slider to remove bandages, painted nails, added slider to unpaint nails, added panties, added slider to remove panties.
+Ver0.07: Added socks, added slider to remove socks.
+Ver0.08: Added choker, added slider to remove choker.
+Ver0.09: Added boots, added slider to remove boots.
+Ver0.10: Added glove, added slider to remove glove.
+Ver0.11: Added pants, added slider to remove pants.
+Ver0.12: Added shirt, added slider to remove shirt.
+Ver0.13: Added skirt and belt.
+Ver0.14: Added jacket, added slider to remove jacket, added slider to remove skirt and belt, refined leg physics.
+Ver0.15: Added armwarmer, added slider to remove armwarmer.
+Ver0.16: Added slider to pull down pants, added slider to pull down panties, added slider to shift panties, added slider to open jacket and shirt, broke "shirt off" morph.
+Ver0.17: Added pubic hair.
+Ver0.17.5: Ran it through Blender so that the pubic hair wouldn't slow PMXE down.
+Ver0.18: Changed eyes from Miku-style eyes to Gumi-style eyes, fixed "shirt off" morph.
+Ver0.19: Tweaked a bit.
+Ver1.00: Translated it so that it would work properly for Japanese and English users.
+Ver1.01: Tweaked a bit.
+Ver1.02: Added slider to put on sling bikini, added sliders to shift bikini.
+Ver1.03: Added titty stickers, added slider to remove titty stickers.
+Ver1.04: Added slider to turn her into Z4 Flower.
+Ver1.05: Tweaked a bit.
+
+BONUS: V4 FLOWER CLOTHES
+Ver0.01: Removed V4 Flower, as well as all physics and joints, leaving behind the clothes and bones.
+Ver0.02: Added slider to open skirt.
+Ver0.03: Modified slider to open shirt fully.
+Ver0.04: Added slider to open collar.
+Ver0.05: Added slider to lift shirt.
+Ver0.06: Added slider to pull down sling bikini around sides.
+Ver0.07: Added slider to squish panties.
+Ver0.08: Added slider to squish pants.
+Ver0.09: Added slider to flatten clothes when they're on the ground.
+Ver0.10: Modified sliders to remove just ONE shoe or sock.
+Ver0.11: Added slider to stretch bandages, as if they were being unspooled.
+Ver1.00: Translated it so that it would work properly for Japanese and English users.
+
+Note: The version used in "Follow The Leader" was Ver0.05. The version used in "Womanizer" was Ver0.09. The version used in "All The Way Up" was Ver1.01. The version used in "Kiss Me" was Ver1.05.

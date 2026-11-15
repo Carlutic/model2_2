@@ -1,0 +1,72 @@
+[
+ {
+  "id": 180501,
+  "name": "FutaGumi",
+  "displayName": "Gumi（ふたなり） - Futanari Gumi",
+  "weaponType": "",
+  "element": "Model2",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/FutaGumi_10",
+  "image": "Covers/FutaGumi.png",
+  "pmx": "Futanari Gumi.pmx",
+  "base": "https://carlutic.github.io/model2_2/"
+ },
+ {
+  "id": 180502,
+  "name": "FutaHaku",
+  "displayName": "Haku（ふたなり） - Futanari Haku",
+  "weaponType": "",
+  "element": "Model2",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/FutaHaku_11",
+  "image": "Covers/FutaHaku.png",
+  "pmx": "Futanari Haku.pmx",
+  "base": "https://carlutic.github.io/model2_2/"
+ },
+ {
+  "id": 180503,
+  "name": "FutaLuka",
+  "displayName": "Luka（ふたなり） - Futanari Luka",
+  "weaponType": "",
+  "element": "Model2",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/FutaLuka_12",
+  "image": "Covers/FutaLuka.png",
+  "pmx": "Futanari Luka.pmx",
+  "base": "https://carlutic.github.io/model2_2/"
+ },
+ {
+  "id": 180504,
+  "name": "FutaMiku",
+  "displayName": "Miku（ふたなり） - Futanari Miku",
+  "weaponType": "",
+  "element": "Model2",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/FutaMiku_13",
+  "image": "Covers/FutaMiku.png",
+  "pmx": "Futanari Miku.pmx",
+  "base": "https://carlutic.github.io/model2_2/"
+ },
+ {
+  "id": 180505,
+  "name": "FutaRin",
+  "displayName": "Rin（ふたなり） - Futanari Rin",
+  "weaponType": "",
+  "element": "Model2",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/FutaRin_14",
+  "image": "Covers/FutaRin.png",
+  "pmx": "Futanari Rin.pmx",
+  "base": "https://carlutic.github.io/model2_2/"
+ }
+]
